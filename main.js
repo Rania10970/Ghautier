@@ -1,4 +1,4 @@
-require(["I"], function () {
+require([], function () {
 
   widget.body.innerHTML = `
     <div style="float: left;width: 30vw">
